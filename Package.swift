@@ -28,8 +28,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GenieeMediationUnityAds",
-            url: "https://github.com/unigeniee/geniee-ios-mediation-unityads/releases/download/8.3.1/GenieeMediationUnityAds.8.3.1.zip",
-            checksum: "08ea809dab114a5b193deb571ec0732cec29af59f28a85b0fa66b10b46eb9e57"
+            url: "https://github.com/unigeniee/geniee-ios-mediation-unityads/releases/download/8.3.100/GenieeMediationUnityAds.8.3.1.0.zip",
+            checksum: "d40680f9e5b737d13d38dca90e5cfc7249f5c3f4b67475e44f29f2336f3e9e89"
         ),
         .binaryTarget(
             name: "UnityAds",
