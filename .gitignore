@@ -1,5 +1,17 @@
-.DS_Store
+# Xcode
 .build/
-.swiftpm/
 *.xcodeproj
 xcuserdata/
+DerivedData/
+
+# SPM
+.swiftpm/
+
+# xcframework (distributed via GitHub Releases, not committed)
+*.xcframework/
+
+# zip artifacts
+*.zip
+
+# macOS
+.DS_Store
