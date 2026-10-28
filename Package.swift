@@ -17,7 +17,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/geniee-ssp/swift-package-manager-geniee-ios-sdk.git",
-            from: "8.4.3"
+            from: "8.5.1"
         )
     ],
     targets: [
@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GenieeMediationUnityAds",
-            url: "https://github.com/geniee-ssp/geniee-ios-mediation-unityads/releases/download/4.18.0/GenieeMediationUnityAds.4.18.0.0.zip",
-            checksum: "54786a6975575e6ecf6e07599a4c62fddbd4317888f3ab2114580890f8c8bda5"
+            url: "https://github.com/geniee-ssp/geniee-ios-mediation-unityads/releases/download/4.18.1/GenieeMediationUnityAds.4.18.0.1.zip",
+            checksum: "dcad502144cb5a65626d437d963ad99254660f1ddd32084d90d84a7a377573e4"
         ),
         .binaryTarget(
             name: "UnityAds",
